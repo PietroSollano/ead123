@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ead123", "ead123", "{3FC99C08-48E0-D100-D7DE-E923AE6276DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoEad", "ead123\ProjetoEad\ProjetoEad.csproj", "{FBB52448-9F36-7DA3-EC40-193752D8042C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBB52448-9F36-7DA3-EC40-193752D8042C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB52448-9F36-7DA3-EC40-193752D8042C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB52448-9F36-7DA3-EC40-193752D8042C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB52448-9F36-7DA3-EC40-193752D8042C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FBB52448-9F36-7DA3-EC40-193752D8042C} = {3FC99C08-48E0-D100-D7DE-E923AE6276DF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E74B9B-38F9-445C-A405-F558772AE2E2}
+	EndGlobalSection
+EndGlobal
